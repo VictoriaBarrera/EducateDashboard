@@ -1,11 +1,5 @@
-<<<<<<< HEAD
 streamlit
 pandas
+numpy
 plotly
-scikit-learn
-=======
-streamlit
-pandas
-plotly
-scikit-learn
-statsmodels
+openpyxl
