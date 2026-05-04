@@ -1,11 +1,7 @@
 streamlit
 pandas
-<<<<<<< HEAD
 numpy
-plotly
-openpyxl
-=======
 plotly
 scikit-learn
-numpy
->>>>>>> 5feccec (final dashboard update)
+folium
+streamlit-folium
